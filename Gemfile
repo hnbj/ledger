@@ -52,6 +52,10 @@ gem "devise-bootstrap5"
 
 gem 'faker'
 
+gem 'will_paginate', '~> 4.0'
+
+gem 'rails_performance'
+
 gem "chartkick"
 
 group :development, :test do
